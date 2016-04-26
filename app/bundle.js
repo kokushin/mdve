@@ -44,6 +44,8 @@
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
+	'use strict';
+
 	var Vue = __webpack_require__(1);
 	var marked = __webpack_require__(3);
 
